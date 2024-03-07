@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Craft Beer!";
 ```
+- [ ] Add about us page
+- [ ] Add photos of brewery
+- [ ] Add photos of staff
